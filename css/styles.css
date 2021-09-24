@@ -3,7 +3,9 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
 }
-
+p {
+    line-height: 2;
+}
 h1 {
     color: #66BFBF;
     font-size: 5.625rem;
